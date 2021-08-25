@@ -1,14 +1,4 @@
-/**************************************************************************
-Student name: Younes Boutaleb
-Student number: 041019068
-Assignment number (and name if any): Lab 02: To perform Data Cryptography 
-                                                      and De-cryptography 
-Course name and number: CST8234 C Language
-Lab section number: 013
-Professor’s name: Natalie Gluzman
-Due date of assignment: June 4, 2021
-Submission date of assignment: May 25, 2021
-List of source and header files in the project: cc_encrypt.c
+
  **************************************************************************/
 /**************************************************************************
 Declare include files
@@ -29,7 +19,7 @@ Declare include files
  * decryptes the message and prints it
  * It takes no parameters and returns EXIT_SUCCESS value
  * Version: 1.0
- * Author/Student Name: Younes Boutaleb
+
  **************************************************************************/
 int main()
 {
